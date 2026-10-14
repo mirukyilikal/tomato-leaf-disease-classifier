@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+models/*.keras
+models/*.h5
+.streamlit/secrets.toml
+.DS_Store

@@ -1,0 +1,1 @@
+Copy tomato_finetuned_best.keras into this folder. See README.md for instructions.
